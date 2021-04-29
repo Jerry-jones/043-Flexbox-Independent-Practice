@@ -1,0 +1,25 @@
+.menu1 {
+    Background-color: grey;
+    display: flex;
+    justify-content: space-around;
+    border: solid blue;
+}
+
+.item1 {
+    Background-color: lightblue;
+    padding: 10px;
+    border: solid blue;
+    margin: 10px;
+}
+.menu2  {
+    Background-color: pink;
+    display: flex;
+    justify-content: space-around;
+    border: solid red;
+}
+.item2 {
+    Background-color: lime;
+    padding: 10px;
+    border: solid red;
+    margin: 10px;
+}
